@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "tower",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "plot": "M" }, "geometry": { "type": "Point", "coordinates": [ 416756.579728918673936, 5346755.197690431959927 ] } },
+{ "type": "Feature", "properties": { "id": 2, "plot": "D" }, "geometry": { "type": "Point", "coordinates": [ 416739.593640001665335, 5346677.134385525248945 ] } },
+{ "type": "Feature", "properties": { "id": 3, "plot": "B" }, "geometry": { "type": "Point", "coordinates": [ 416772.644457249320112, 5346639.905148243531585 ] } }
+]
+}
